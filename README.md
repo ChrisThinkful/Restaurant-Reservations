@@ -1,8 +1,7 @@
-# Screenshots:
+# ScreenShots:
 
-Dashboard
-![Alt text](front-end/.screenshots/us-01-submit-before.png?raw=true "Dashboard")
-
+Dashboard Screenshot
+![Alt text](./screenshots/dashboard-before.jpg?raw=true "Dashboard")
 
 # Capstone: Restaurant Reservation System
 
