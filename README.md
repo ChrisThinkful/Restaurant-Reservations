@@ -1,8 +1,3 @@
-# ScreenShots:
-
-Dashboard Screenshot
-![Alt text](./screenshots/dashboard-before.jpg?raw=true "Dashboard")
-
 # Capstone: Restaurant Reservation System
 
 > You have been hired as a full stack developer at _Periodic Tables_, a startup that is creating a reservation system for fine dining restaurants.
