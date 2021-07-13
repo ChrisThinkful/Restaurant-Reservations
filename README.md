@@ -1,6 +1,6 @@
 Screenshots:
 
-![ScreenShot](front-end/.screenshots/us-01-cancel-after.png)
+![ScreenShot](front-end/.screenshots/us-01-cancel-after.png?raw=true)
 
 # Capstone: Restaurant Reservation System
 
