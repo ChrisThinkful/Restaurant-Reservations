@@ -1,20 +1,12 @@
-# Capstone: Restaurant Reservation System
+# Restaurant Reservation System
 
-> You have been hired as a full stack developer at _Periodic Tables_, a startup that is creating a reservation system for fine dining restaurants.
-> The software is used only by restaurant personnel when a customer calls to request a reservation.
-> At this point, the customers will not access the system online.
+Created using React.js, JavaScript, HTML, CSS, Express API, and Knex to PostreSQL databases.
 
-There are no user stories for deployment: it is expected that you will deploy the application to production after you finish a user story.
+This application allows the creation of new reservations and tables in order to manage a restaurant's seating organization. Reservations can be edited, cancelled, or seated at a selected table. Tables have an option to finish the table, finishing the reservation and freeing it up for a new reservation. It also has a search feature which allows the user to search the reservations by their phone number.
 
-There are no user stories for logging: it is expected that you will add logging to the application with enough detail to help you diagnose issues in production.
+This repository is set up as a monorepo, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
 
-## Existing files
-
-This repository is set up as a *monorepo*, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
-
-As you work through the user stories listed later in this document, you will be writing code that allows your frontend and backend applications to talk to each other. You will also write code to allow your controllers and services to connect to, and query, your PostgreSQL database via [Knex](http://knexjs.org/).
-
-The table below describes the folders in this starter repository:
+The table below describes the folders in this repository:
 
 | Folder/file path | Description                                                      |
 | ---------------- | ---------------------------------------------------------------- |
@@ -74,8 +66,7 @@ The table below describes the existing files in the `./front-end` folder:
 
 ## Database setup
 
-1. Set up four new ElephantSQL database instances - development, test, preview, and production - by following the instructions in the "PostgreSQL: Creating & Deleting Databases" checkpoint.
-1. After setting up your database instances, connect DBeaver to your new database instances by following the instructions in the "PostgreSQL: Installing DBeaver" checkpoint.
+1. Set up four new ElephantSQL database instances - development, test, preview, and production.
 
 ### Knex
 
